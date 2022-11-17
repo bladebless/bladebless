@@ -1,0 +1,10 @@
+#Службы #Отсортировав по имени в обратном порядке 
+Get-Service | Sort-Object -Descending -Property "Name" 
+Get-Service | Where-Object {$_.Status -eq “Running”} | Format-Table -AutoSize | Out-File -filepath “$Env:userprofile\Desktop\RunServices.txt”
+#
+
+#
+
+#
+
+#
