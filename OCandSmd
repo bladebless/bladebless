@@ -1,5 +1,8 @@
-Get-Date #показывает дату 
-Get-CimInstance -ClassName Win32_ComputerSystem #Вывод производителя и модели компьютера
+#показывает дату 
+Get-Date 
+#Вывод производителя и модели компьютера
+Get-CimInstance -ClassName Win32_ComputerSystem 
+$systeminfo | fl OS*
 #Дата установки windows
 $system = Get-WmiObject -Class Win32_OperatingSystem
 # Получаем дату установки ОС
@@ -18,7 +21,8 @@ Get-WmiObject Win32_PhysicalMemory | Select-Object BankLabel, @{Name="Capacity, 
 #Вывод сведений о процессоре
 Get-CimInstance -ClassName Win32_Processor | Select-Object -ExcludeProperty "CIM*" 
 #Информация о CPU 
-Get-ComputerInfo  -Property *proc*,*mem* 
+$cpuinfo = Get-CimInstance -ClassName CIM_Processor
+$cpuinfo | fl Name, Description, Version
 #Локальные пользователи 
 Get-CimInstance -ClassName Win32_OperatingSystem | Select-Object -Property *user* 
 #Сведение о дисках
