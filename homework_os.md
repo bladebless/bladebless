@@ -29,4 +29,5 @@ Get-LocalUser
 Get-CimInstance -ClassName Win32_OperatingSystem | Select-Object -Property *user* 
 #Сведение о дисках
 get-wmiobject -class win32_logicaldisk 
-
+#Сведение о SID 
+Get-LocalGroup | fl
