@@ -1,0 +1,36 @@
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.exe
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.deps.json
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.runtimeconfig.json
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.dll
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.pdb
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.AssemblyReference.cache
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК_0101.Form1.resources
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК_0101.Properties.Resources.resources
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.GenerateResource.cache
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.AssemblyInfoInputs.cache
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.AssemblyInfo.cs
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.CoreCompileInputs.cache
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.dll
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\refint\МДК 0101.dll
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.pdb
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.genruntimeconfig.cache
+C:\Users\79920\Work VS\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\ref\МДК 0101.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.exe
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.deps.json
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.runtimeconfig.json
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\bin\Debug\net6.0-windows\МДК 0101.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.AssemblyReference.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК_0101.Form1.resources
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК_0101.Properties.Resources.resources
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.GenerateResource.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.AssemblyInfoInputs.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.AssemblyInfo.cs
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\refint\МДК 0101.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\МДК 0101.genruntimeconfig.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\МДК 0101\МДК 0101\obj\Debug\net6.0-windows\ref\МДК 0101.dll
