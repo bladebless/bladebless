@@ -28,7 +28,7 @@
          <b>Опыт:</b> 2 года коммерческой разработки<br>
          <b>Проектов:</b> 10+ реализованных решений<br>
          <b>Локация:</b> Санкт-Петербург, 22 года<br>
-         <b>Делюсь:</b> <a href="https://github.com/BitrixD/portfolio">Портфолио с кодом</a>
+         <b>Делюсь:</b> <a href="https://github.com/bladebless/portfolio">Портфолио с кодом</a>
       </td>
     </tr>
   </table>
