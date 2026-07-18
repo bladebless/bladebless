@@ -135,11 +135,9 @@
     <img src="https://img.shields.io/badge/GitHub-BitrixD-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://BitrixD.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Резюме-Смотреть-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+
   &nbsp;
-  <a href="https://github.com/BitrixD/portfolio" target="_blank">
+    <a href="https://github.com/bladebless/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/📦_Портфолио_кода-Открыть-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
